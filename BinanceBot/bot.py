@@ -14,8 +14,8 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 
-api_key = 'hPZcl6C7b1NFfMNc2whnh2OSyxsWxyEIEP2mKDypUYDrG70eeB4rniELcx0KnAwD'
-api_secret = 'tF6fS7kskVztUbDA5jkXt8GAdXLoJ82C9BaspK0F9AbV2MuG2aGZOcLoboOOUgX6'
+api_key = 'API KEY HERE'
+api_secret = 'API SECRET HERE'
 
 col = ['open_time', 'open', 'high', 'low', 'close',
        'volume', 'close_time', 'quote_asset_volume',
